@@ -1,2 +1,0 @@
-# VSG
-Virtual Security Guards

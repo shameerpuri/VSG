@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Virtual Security Guard Services</title>
+    <link href="https://shameerpuri.github.io/vsg/feed.xml" rel="self" />
+    <link href="https://shameerpuri.github.io/vsg" />
+    <updated>2019-09-18T21:35:29+05:30</updated>
+    <author>
+        <name>Shameer Puri</name>
+    </author>
+    <id>https://shameerpuri.github.io/vsg</id>
+
+    <entry>
+        <title>VSG</title>
+        <author>
+            <name>Shameer Puri</name>
+        </author>
+        <link href="https://shameerpuri.github.io/vsg/vsg.html"/>
+        <id>https://shameerpuri.github.io/vsg/vsg.html</id>
+
+        <updated>2019-09-18T21:35:24+05:30</updated>
+            <summary>
+                <![CDATA[
+                    VSG
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                VSG
+            ]]>
+        </content>
+    </entry>
+</feed>

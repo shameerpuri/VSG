@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Virtual Security Guard Services",
+    "description": "",
+    "home_page_url": "https://shameerpuri.github.io/vsg",
+    "feed_url": "https://shameerpuri.github.io/vsg/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Shameer Puri"
+    },
+    "items": [
+        {
+            "id": "https://shameerpuri.github.io/vsg/vsg.html",
+            "url": "https://shameerpuri.github.io/vsg/vsg.html",
+            "title": "VSG",
+            "summary": "VSG",
+            "content_html": "VSG",
+            "author": {
+                "name": "Shameer Puri"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-18T21:35:24+05:30",
+            "date_modified": "2019-09-18T21:35:24+05:30"
+        }
+    ]
+}
